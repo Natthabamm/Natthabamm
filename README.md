@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natthamon Tiengtae.
-- - 💞️ I’m 23 years old.
+- 💞️ I’m 23 years old.
 - 👀 I’m interested in React.js, JavaScript and continually developing myself :)
 - 🌱 I’m full-stack student at Codecamp Thailand #10
 - 📫 How to reach me E-mail: natthamonbam@gmail.com
